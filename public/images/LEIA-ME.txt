@@ -1,0 +1,15 @@
+📸 ADICIONAR FOTO DA NATHALIA
+
+Instruções:
+
+1. Vá no Instagram: https://www.instagram.com/nathaliaabrell/
+2. Escolha uma foto profissional da Nathalia
+3. Clique com botão direito na foto > "Salvar imagem como..."
+4. Salve nesta pasta com o nome: nathalia-profile.jpg
+
+A foto será automaticamente exibida na landing page!
+
+Recomendação:
+- Foto profissional, de preferência com fundo neutro
+- Formato: JPG ou PNG
+- Tamanho mínimo: 800x800 pixels
