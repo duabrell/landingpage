@@ -90,7 +90,7 @@ export default function Home() {
                     <Clock className="w-5 h-5 text-primary-400" />
                     <div className="flex flex-col">
                       <span className="text-white font-bold text-sm">19:00 🇧🇪</span>
-                      <span className="text-gray-400 text-xs">15:00 🇧🇷</span>
+                      <span className="text-white font-bold text-sm">15:00 🇧🇷</span>
                     </div>
                   </div>
                   
